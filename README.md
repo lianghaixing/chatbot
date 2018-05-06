@@ -6,8 +6,6 @@
 
 ###文件夹介绍
 * data--原始数据以及数据清洗后的字典表，转化为相应的向量输入，enc为encoder的输入，dec为decoder的输入
-* model--保存的训练模型，该文件夹为LSTM网络结构的训练结果
-* model_old--保存的训练模型，该文件夹为GRU网络结构的训练结果
 * result--测试集的问答效果，为对话形式
 
 ###代码介绍
@@ -28,8 +26,8 @@ python 3.6.1
 tensorflow==1.2.1
 
 ###聊天效果图
-![Image text](https://github.com/PlannerPlus/Anime-Wallpapers/raw/master/image/1.jpg)
-
+![Image text](https://github.com/lianghaixing/chatbot/tree/master/picture/pic1.png)
+![Image text](https://github.com/lianghaixing/chatbot/tree/master/picture/pic2.png)
 ###result测试内容
 
 ```
